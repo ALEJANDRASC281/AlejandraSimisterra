@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Stalin Francis?</h1>
+        	<h1>¿Quién es Alejandra Simisterra?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -24,9 +24,9 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy<b> Stalin Francis</b>, ingeniero esmeraldeño que labora desde hace 10 años en la Universidad Tecnica Luis Vargas Torres, e impartido diferentes cátedras en la carrera de Tecnología de la Información entre las cuales esta Ingeniería de Software, Programación Web, Proyectos informáticos entre otras; pero la cátedra en la que mejor me desempeño es la de Fundamentos de programación que se dicta en el primer ciclo de la carrera de Tecnología de la Información. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, me he dedicado a la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+                   <p class="eys-parrafo">Hola, yo soy<b> SAlejandra Simisterra</b>,estudiante de la Facultad de Ingenierías en la Universidad Técnica de Esmeraldas “Luis Vargas Torres” de la carrera de Tecnologías de la Información. Estoy en séptimo semestre y tengo 22 años de edad. Mis padres son Martha Charcopa y Alejandro Simisterra, tengo 9 hermanas y de entre todas soy la menor. Sus nombres son Leisy, Geovanna, Patricia, Estela, Carmen, María, Elisa, y Mónica. </p>
+                   <p class="eys-parrafo">Me gradúe como Técnica en Administración en Sistemas en la Unidad Educativa Salesiana “María Auxiliadora”, tuve profesores que me hicieron amar la programación. Tenían mucha paciencia y nos ayudaban a ser creativos, creamos paginas web, aplicaciones de escritorio, juegos. Todas esas eran cosas que no sabía que alguna vez yo iba a poder hacer solo con el uso de unas cuantas plataformas y una computadora. Los profesores me mostraron ese nuevo mundo y desde entonces lo amé. </p>
+<p class="eys-parrafo">Elegí esta carrera porque me gustaba la programación y las distintas cosas que se crean con la ayuda de la tecnología. El mundo actual depende la tecnología y me parece increíble poder formar parte de algo o construir algo en el futuro, ya sea una aplicación u otra cosa.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
