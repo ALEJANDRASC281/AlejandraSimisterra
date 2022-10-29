@@ -24,8 +24,8 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy<b> SAlejandra Simisterra</b>,estudiante de la Facultad de Ingenierías en la Universidad Técnica de Esmeraldas “Luis Vargas Torres” de la carrera de Tecnologías de la Información. Estoy en séptimo semestre y tengo 22 años de edad. Mis padres son Martha Charcopa y Alejandro Simisterra, tengo 9 hermanas y de entre todas soy la menor. Sus nombres son Leisy, Geovanna, Patricia, Estela, Carmen, María, Elisa, y Mónica. </p>
-                   <p class="eys-parrafo">Me gradúe como Técnica en Administración en Sistemas en la Unidad Educativa Salesiana “María Auxiliadora”, tuve profesores que me hicieron amar la programación. Tenían mucha paciencia y nos ayudaban a ser creativos, creamos paginas web, aplicaciones de escritorio, juegos. Todas esas eran cosas que no sabía que alguna vez yo iba a poder hacer solo con el uso de unas cuantas plataformas y una computadora. Los profesores me mostraron ese nuevo mundo y desde entonces lo amé. </p>
+                   <p class="eys-parrafo">Hola, yo soy<b>Alejandra Simisterra</b>,estudiante de la Facultad de Ingenierías en la Universidad Técnica de Esmeraldas “Luis Vargas Torres” de la carrera de Tecnologías de la Información. Estoy en séptimo semestre. Mis padres son Martha Charcopa y Alejandro Simisterra, tengo 9 hermanas y de entre todas soy la menor. Sus nombres son Leisy, Geovanna, Patricia, Estela, Carmen, María, Elisa, y Mónica. </p>
+                   <p class="eys-parrafo">Me gradúe como Técnica en Administracion de Sistemas, tuve profesores que me hicieron amar la programación. Tenían mucha paciencia y nos ayudaban a ser creativos, creamos paginas web, aplicaciones de escritorio, juegos. Todas esas eran cosas que no sabía que alguna vez yo iba a poder hacer solo con el uso de unas cuantas plataformas y una computadora. Los profesores me mostraron ese nuevo mundo y desde entonces lo amé. </p>
 <p class="eys-parrafo">Elegí esta carrera porque me gustaba la programación y las distintas cosas que se crean con la ayuda de la tecnología. El mundo actual depende la tecnología y me parece increíble poder formar parte de algo o construir algo en el futuro, ya sea una aplicación u otra cosa.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
@@ -34,23 +34,23 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en la Unidad Educativa Salesiana Maria Auxiliadora, me gradue en el año 2018 como Tecnica en Administracion en Sistemas. Entre sin saber de que trataba exactamente esta especialidad y fue definitivamente un mundo nuevo para mi. El conocer lo que hay detras de la aplicacion o pagina web que reciben los usuarios es increible. Los profesores lograron que me interesara esta especialidad y lograron que aprenda algunos lenguajes de programacion en su forma basica.</p>
+                   <p class="eys-parrafo">En el colegio logre crear varias aplicaciones desde tiendas de ropa  inventarios, y una aplicacion que fue donada a la iglesia de la comunidad. Esta aplicacion ayudaba a llevar los registros que ingresaban a la igleasia y que antes eran puestos o escritos en papel. Tambien logre hacer varias paginas web de distintos temas y fue esto lo que mas me gusto</p>
+<p class="eys-parrafo"> Por el amor que pude agarrarle a la programacion elegi estudiar Tecnologias de la ingformacion en la UTELVT, todo lo que se de programacion es lo que logre aprender en el colegio. En la universidad he reforzado poco nuevos conocimientos.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
+    <h2 style="border-bottom: 1px solid green;"> Mi perfil personal</h2> 
     
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo">Soy Alejandra Simisterra, naci el 22 de agosto del año 2000. Actualmente tengo 22 años de edad y soy una estudiante universitaria. Aunque actualmente no estoy trabajando anteriormente lo estuve haciendo de oficinista donde aprendi muchas cosas, tambien trabaje como mesera en un complejo turistico..</p> 
+                   <p  class="eys-parrafo">Soy una persona muy centrada, me gusta ser responsable en todos los ambitos de mi vida personal y estudiantil. Soy muy exigente porque tambien soy perfeccionista. Me gusta que las cosas queden de la mejor manera posible cuando mi nombre y mi persona estan involucrado en algo.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+		   <p   class="eys-parrafo">Me gusta leer, amo comprar libros y verlos en mi colección. También amo escuchar música en cualquier momento, la música puede ser distinta dependiendo el estado de animo que tenga en el instante. Amo escuchar discos de cualquier genero musical. Otra cosa que me gusta es coleccionar photocards o tarjetas, aunque es uno de mis pasatiempos mas recientes creo que es uno de los que más me gusta. Por último, me gusta estar informada de todo lo que pueda en cuanto a avances se refiere. Me gusta poder conocer muchas cosas..</p>
        
 
                    
