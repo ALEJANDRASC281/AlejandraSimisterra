@@ -86,7 +86,7 @@ document.getElementById("elnombre").innerHTML="Alejandra Simisterra";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://highkickesmeraldas.com/BalcazarLuis/'>Luis Balcazar</a></p><p><a href='https://highkickesmeraldas.com/SusanaCharcopa/'>Susana Charcopa</a></p><p><a href='  '>Juan Zambrano </a> </p><p><a href>Gabriel Quinde</a> </p>   " ;
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://highkickesmeraldas.com/BalcazarLuis/'>Luis Balcazar</a></p><p><a href='https://highkickesmeraldas.com/SusanaCharcopa/'>Susana Charcopa</a></p><p><a href='https://highkickesmeraldas.com/QuindeGabriel/' >Gabriel Quinde</a> </p> " ;
  </script>
  
 <?php
